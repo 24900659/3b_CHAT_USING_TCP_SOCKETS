@@ -48,7 +48,8 @@ c.send(msg.encode())
  
 ## OUPUT
 CLIENT:
-![image](https://github.com/user-attachments/assets/c635272e-662b-42b3-98f6-4063c4f2539a)
+![Screenshot (49)](https://github.com/user-attachments/assets/af336990-a249-4eb7-8f63-803632634fc0)
+
 SERVER:
 ![Screenshot (50)](https://github.com/user-attachments/assets/8ccefd51-de57-4ee9-a006-f93aebbc51f9)
 
